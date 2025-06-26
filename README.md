@@ -8,4 +8,4 @@ This script is written in python using Google Colab. GitHub doesn't support widg
 
 ## Version
 
-This is V1.0, created by Anna Drummond Young.
+This is V1.0, created and maintained by Anna Drummond Young. Last update: _250626_
